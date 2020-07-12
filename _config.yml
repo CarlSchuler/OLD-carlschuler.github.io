@@ -99,8 +99,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Carl Schuler
+    url: https://www.linkedin.com/in/carlschuler1/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
