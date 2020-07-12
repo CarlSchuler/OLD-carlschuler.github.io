@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: Carl Schuler
+    url: https://twitter.com/carlschuler
     desc: Follow me on Twitter
     share: true
 
@@ -88,12 +88,12 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: carlschuler
+    url: https://github.com/carlschuler
     desc: Fork me on GitHub
     share: false
 
