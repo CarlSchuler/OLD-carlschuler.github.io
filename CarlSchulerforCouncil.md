@@ -8,4 +8,4 @@ main_nav: true
 
 *[CRO-3500](assets/CRO-3500.pdf)
 
-*[Statement of Organization-Candidate Committee](assets/CRO-2100A.pdf)
+*[CRO-2100A](assets/CRO-2100A.pdf)
