@@ -4,6 +4,6 @@ title: Carl Schuler for Council
 permalink: /CarlSchulerforCouncil/
 main_nav: true
 ---
-#Carl Schuler for Council
+##Carl Schuler for Council
 <p> Paragaph text doesn't cause a build error messages </p>
 
