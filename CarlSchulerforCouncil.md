@@ -4,5 +4,4 @@ title: Carl Schuler for Council
 permalink: /CarlSchulerforCouncil/
 main_nav: true
 ---
-
-[Certification of Financial Acount Information]({% link/assets/files/CRO-3500.pdf%})
+[Statement of Organization-Candidate Committee]({% link/assets/files/CRO-2100A_28JUL2017.pdf %})
