@@ -6,4 +6,3 @@ main_nav: true
 ---
 
 <p> Paragaph text doesn't cause a build error messages </p>
-<li> Getting document link to work  </li>
