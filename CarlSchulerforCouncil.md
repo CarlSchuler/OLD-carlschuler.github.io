@@ -6,5 +6,5 @@ main_nav: true
 ---
 ## Campaign Documents
 
-<h4>h4.[CRO-3500](assets/CRO-3500.pdf)<h4>h4. Heading</h4>
-<h4>h4.[Statement of Organization](assets/CRO-2100A_28JUL2017.pdf)</h4>
+<p> [CRO-3500](assets/CRO-3500.pdf)<h4>h4. Heading</p>
+
