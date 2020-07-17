@@ -11,3 +11,6 @@ main_nav: true
 [CRO-2100A](assets/CRO-2100A.pdf)
 
 [CRO3100](assets/3100.pdf)
+
+
+[3500](https://github.com/CarlSchuler/carlschuler.github.io/tree/master/assets/CRO-3500.pdf)
