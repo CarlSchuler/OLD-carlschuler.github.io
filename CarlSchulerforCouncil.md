@@ -15,4 +15,4 @@ main_nav: true
 
 [3500](https://github.com/carlschuler.github.io/tree/master/assets/CRO-3500.pdf)
 
-[2100] (assets/2100.pdf)
+[2100](assets/2100.pdf)
