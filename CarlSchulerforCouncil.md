@@ -4,8 +4,7 @@ title: Carl Schuler for Council
 permalink:  /CarlSchulerforCouncil/
 main_nav: true
 ---
-#Chapel Town Council Candidate
-<h3> Completed two campaigns last decade (2011 and 2017) <h3/>
+#Chapel Town Council Candidate in 2011 and 2017
 
 ## Campaign Documents
 
