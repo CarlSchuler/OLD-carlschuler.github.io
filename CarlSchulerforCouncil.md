@@ -6,7 +6,7 @@ main_nav: true
 ---
 ## Campaign Documents
 
-[CRO-3500](assets/CRO-3500.pdf)
+[CRO-3500] (assets/CRO-3500.pdf)
 
 [CRO-2100A](assets/CRO-2100A.pdf)
 
