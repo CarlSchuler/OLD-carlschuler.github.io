@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carl Schuler for Council
-permalink:/CarlSchulerforCouncil/
+permalink: /CarlSchulerforCouncil/
 main_nav: true
 ---
 ## Campaign Documents
