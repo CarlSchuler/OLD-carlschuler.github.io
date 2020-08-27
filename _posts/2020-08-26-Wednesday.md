@@ -5,6 +5,7 @@ date:   20202-08-26T14:25:52-05:00
 author: Carl
 categories: General
 tags: github
+cover:  "/assets/Outdoor_Stage.png"
 ---
 
 Revisions were made to the site.
